@@ -1,0 +1,3 @@
+[submodule "software/rpi-pico-lab"]
+	path = software/rpi-pico-lab
+	url = https://github.com/IotaHydrae/rpi-pico-lab.git
